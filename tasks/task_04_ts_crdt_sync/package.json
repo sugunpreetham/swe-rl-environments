@@ -1,0 +1,14 @@
+{
+  "name": "task-04-ts-crdt-sync",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Deterministic Add-Wins OR-Set CRDT Verifier",
+  "main": "dist/src/crdt.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --experimental-strip-types --test tests/crdt.test.ts"
+  },
+  "keywords": ["crdt", "distributed-systems", "typescript"],
+  "author": "Sugun Preetham Devabarkina",
+  "license": "MIT"
+}
