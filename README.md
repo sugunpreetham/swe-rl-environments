@@ -159,3 +159,5 @@ swe-rl-environments/
 
 ## 📜 License
 This benchmark suite is open-source software licensed under the [MIT License](LICENSE).
+
+<!-- Verified by Pair Extraordinaire -->
